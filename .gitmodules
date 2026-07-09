@@ -1,3 +1,6 @@
 [submodule "AboutDeepLearning/PyTorch"]
 	path = AboutDeepLearning/PyTorch
 	url = git@github.com:18712314305/mystu-PyTorch.git
+[submodule "AboutMath/Statistics"]
+	path = AboutMath/Statistics
+	url = git@github.com:yFeiLu/mystu-Statistics.git
